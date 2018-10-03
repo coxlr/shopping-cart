@@ -2,7 +2,7 @@
 
 > A Vue.js project using Vuex
 
-This is an example application showing how to use Vuex getters, mutations, actions and, how to split your Store with modules.
+This is an example application showing how to use Vuex getters, mutations, actions and, how to split your Store with modules, and namespaced modules.
 
 ## Build Setup
 
@@ -19,5 +19,3 @@ npm run build
 # build for production and view the bundle analyzer report
 npm run build --report
 ```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).

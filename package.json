@@ -2,7 +2,7 @@
   "name": "shopping-cart",
   "version": "1.0.0",
   "description": "A Vue.js project",
-  "author": "Lee Cox <lee_cox@sky.com>",
+  "author": "Lee Cox",
   "private": true,
   "scripts": {
     "dev": "node build/dev-server.js",
